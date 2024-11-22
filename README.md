@@ -85,6 +85,6 @@ You can access the seven & half at the following link:
 
 ### Installation
 
-1. Clone the repository:
+   Clone the repository:
    ```bash
    git clone https://jansaura.github.io/Seven-Half.git
