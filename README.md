@@ -70,7 +70,7 @@ The responsive design ensures compatibility with various screen sizes, providing
 
 You can access the seven & half at the following link:
 
-[**Github Page Link**](https://jansaura.github.io/Seven-Half/)
+[**Github Seven&Half Game**](https://jansaura.github.io/Seven-Half/)
 
 ---
 
