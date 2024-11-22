@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seven and a Half</title>
+    <link rel="stylesheet" href="sevenhalf.css">
+</head>
+<body>
+    <a href="https://en.wikipedia.org/wiki/Sette_e_mezzo">
+        <h1>Seven & <span class="highlight">Half</span></h1>
+    </a>
+    <p id="message-el">Want to play a round?</p>
+    <p id="cards-el">Cards:</p>
+    <p id="sum-el">Sum:</p>
+
+    <!-- Player Details -->
+    <div id="form-container">
+        <p>
+            <input type="text" id="nickname-input" placeholder="Enter your nickname" style="display:none;">
+            <button id="submit-nickname" style="display:none;">Submit</button>
+        </p>
+        <p>
+            <input type="number" id="budget-input" placeholder="Enter your budget" style="display:none;">
+            <button id="submit-budget" style="display:none;">Submit Budget</button>
+        </p>
+        <p>
+            <input type="number" id="bet-input" placeholder="Enter your bet" style="display:none;">
+            <button id="submit-bet" style="display:none;">Place Bet</button>
+        </p>
+    </div>
+
+    <!-- Buttons for game actions -->
+    <button id="start">Start Game</button>
+    <button id="new" style="display:none;">New Card</button>
+    <button id="stay" style="display:none;">Stay</button>
+
+    <p id="player-el"></p>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>© Jan Saura & Albert Urraca</p>
+    </footer>
+
+    <script src="./sevenhalf.js"></script>
+</body>
+</html>
