@@ -88,3 +88,10 @@ You can access the seven & half at the following link:
    Clone the repository:
    ```bash
    git clone https://jansaura.github.io/Seven-Half.git
+   ```
+
+---
+
+### Credits
+
+Developed by **Jan Saura** & **Albert Urraca**  
